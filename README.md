@@ -2,9 +2,9 @@ This is a guide for editing your prompt on bash and zsh along with some useful l
 
 # Table of Contents
 
-1. What is a prompt?
-1. Changing the zsh prompt
-1. Changing the bash prompt
+1. [What is a prompt?](#what-is-a-prompt)
+1. [Changing the zsh prompt](#changing-zsh-prompt)
+1. [Changing the bash prompt](#changing-bash-prompt)
 
 # What is a prompt?
 
